@@ -1,0 +1,161 @@
+%%%%%PLEASE CONSIDER CORRECTIONS AT PLACES INDICATED%%%%%%%%
+\documentclass{article}
+%%%%%Packages Used, add more if necessary%%%%
+\usepackage{amsmath,amsfonts,amssymb,graphicx,fullpage}
+\setlength{\topmargin}{-0.6 in}
+\setlength{\textheight}{8.5 in}
+\setlength{\headsep}{0.75 in}
+
+
+
+%%%%% NO NEED TO EDIT THIS PREAMBLE %%%%%%%%
+%%% PREAMBLE %%%
+\newcounter{lecnum}
+\renewcommand{\thepage}{\thelecnum-\arabic{page}}
+\renewcommand{\thesection}{\thelecnum.\arabic{section}}
+\renewcommand{\theequation}{\thelecnum.\arabic{equation}}
+\renewcommand{\thefigure}{\thelecnum.\arabic{figure}}
+\renewcommand{\thetable}{\thelecnum.\arabic{table}}
+\newcommand{\lecture}[4]{
+   \pagestyle{myheadings}
+   \thispagestyle{plain}
+   \newpage
+   \setcounter{lecnum}{#1}
+   \setcounter{page}{1}
+   \noindent
+   \begin{center}
+   \framebox{
+      \vbox{\vspace{2mm}
+    \hbox to 6.28in { {\bf CS 7545: Machine Learning Theory
+		\hfill Fall 2018} }
+       \vspace{4mm}
+       \hbox to 6.28in { {\Large \hfill Lecture #1: #2  \hfill} }
+       \vspace{2mm}
+       \hbox to 6.28in { {\it Lecturer: #3 \hfill Scribes: #4} }
+      \vspace{2mm}}
+   }
+   \end{center}
+   \markboth{Lecture #1: #2}{Lecture #1: #2}
+
+
+   {\bf Disclaimer}: {\it These notes have not been subjected to the
+   usual scrutiny reserved for formal publications.}
+   \vspace*{4mm}
+}
+\renewcommand{\cite}[1]{[#1]}
+\def\beginrefs{\begin{list}
+        {[\arabic{equation}]}{\usecounter{equation}
+         \setlength{\leftmargin}{2.0truecm}\setlength{\labelsep}{0.4truecm}%
+         \setlength{\labelwidth}{1.6truecm}}}
+\def\endrefs{\end{list}}
+\def\bibentry#1{\item[\hbox{[#1]}]}
+
+\newcommand{\challenge}[2]{\noindent \textbf{(Challenge Problem)} \emph{#1}: #2 }
+
+\newcommand{\exercise}[1]{\noindent \textbf{(Exercise)} #1 }
+
+\newcommand{\fig}[3]{
+			\vspace{#2}
+			\begin{center}
+			Figure \thelecnum.#1:~#3
+			\end{center}
+	}
+%%% END_OF_PREAMBLE %%%
+
+
+	
+%%%%You may add more \newtheorem if necessary%%%%%%
+\newtheorem{theorem}{Theorem}[lecnum]
+\newtheorem{lemma}[theorem]{Lemma}
+\newtheorem{proposition}[theorem]{Proposition}
+\newtheorem{claim}[theorem]{Claim}
+\newtheorem{corollary}[theorem]{Corollary}
+\newtheorem{definition}[theorem]{Definition}
+\newenvironment{proof}{{\bf Proof:}}{\hfill\rule{2mm}{2mm}}
+
+
+\newcommand{\dom}{\mathrm{dom}}
+\begin{document}
+
+%%%%%CHANGE HERE%%%%%%%
+%%%%%\section{title of the section} similarly with the rest \section{} or \subsection{} or \subsubsection{} etc
+
+
+%%%%%CHANGE HERE%%%%%%%%%
+%%%%%\lecture{the ordinal number of the lecture}{lecture title}{Jacob Abernethy}{scriber's name}%%%%%%%%
+\lecture{1}{TITLE OF LECTURE}{Jacob Abernethy}{NAME OF SCRIBE(S)}
+
+\section{Style Guide}
+\paragraph{Notations}
+
+\begin{itemize}
+  \item Use \verb|\vec{x}| to denote an $n$-dimensional vector $\vec{x}$, and $x_i$ (not boldfaced) to denote its $i$-th coordinate of $\vec{x}$.
+  \item Use an uppercase letter to denote a matrix: $M$.
+  \item Use \verb|\top| for transposition: $\vec{x}^\top M \vec{x}$.
+  \item Define new math operators in the preamble: \verb|\newcommand{\dom}{\mathrm{dom}}| and then use $\dom(f)$.
+\end{itemize}
+
+\paragraph{Styles}
+
+\begin{itemize}
+    \item Please avoid using logic symbols (such as $\forall$, $\iff$, and $\implies$) as a part of your English sentence when you present a definition, statement (claim/proposition/theorem/lemma), or proof. Feel free to use them in the less ``formal'' settings.
+  \item In a definition block, boldface the concept being defined. \end{itemize}
+Example:
+
+\begin{definition}[strongly convex]
+A differentiable function $f$ is \textbf{$c$-strongly convex} if for all $\vec{x},\vec{y} \in \dom(f)$, 
+\[f(\vec{y}) \ge f(\vec{x}) + \nabla f(\vec{x})^T (\vec{y} - \vec{x}) + \frac{c}{2} \|\vec{y} - \vec{x}\|^2.\]
+\end{definition}
+%%%%%CHANGE HERE%%%%%%%
+%%%%%\section{title of the section} similarly with the rest \section{} or \subsection{} or \subsubsection{} etc
+\section{Title of the first section of the lecture} 
+%%%%%Use itemize to layout bullet points that are not numbered%%%%%
+
+The professor said a few things. Then he wrote this on the board. This was followed by a list of things.
+\begin{itemize}
+\item This is the first thing in the list
+\item The following is a true statment: $1 + 1 = 2$
+\item This sentence is false. (Or is it?)
+\item Now I'm going to use new notation. Let's let $n$ be an integer. Then notice that
+\[
+  \sum_{i=1}^\infty 1[n \geq i] = n
+\]
+where $1[]$ is the indicator function\footnote{I just used some new notation so I should define it here:
+$
+1[\textnormal{statement}] = \begin{cases}
+
+  1 & \mbox{if statement true;} \\
+
+  0 & \mbox{if statement false} 
+  \end{cases}
+  $.}
+\end{itemize}
+
+\subsection{Some special commands}
+
+\exercise{The professor mentioned an exercise in class that would be useful to work out. You can use the \texttt{$\backslash$exercise} command in these cases.}
+
+\challenge{Name of Challenge Problem}{If a challenge problem is given out, give it a name and put it in the previous field and then write down the description in this field.}
+
+\section{Theorems etc.}
+
+\begin{lemma} \label{lem:biglemma}
+  We are going to need this result in a moment.
+\end{lemma}
+\begin{proof}
+  I'm now proving the lemma.
+\end{proof}
+
+\begin{theorem}
+  Here's a big statement
+\end{theorem}
+\begin{proof}
+  Here's a proof of this big statement. It basically follows from Lemma~\ref{lem:biglemma}.  
+\end{proof}
+
+\begin{corollary}
+  This follows from the theorem, I swear.
+\end{corollary}
+
+
+\end{document}

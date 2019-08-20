@@ -1,0 +1,136 @@
+\documentclass{article}
+\usepackage[T1]{fontenc}
+\usepackage{amssymb, amsmath, graphicx, subfigure, enumerate}
+\usepackage{amsthm,alltt} 
+\usepackage[margin=1.25in]{geometry} %geometry (sets margin) and other useful packages
+\usepackage{graphicx,ctable,booktabs}
+\usepackage{mathtools}
+\usepackage[boxed]{algorithm2e}
+\usepackage{fancyhdr} %Fancy-header package to modify header/page numbering
+\usepackage{cleveref}
+
+\setlength{\oddsidemargin}{.25in}
+\setlength{\evensidemargin}{.25in}
+\setlength{\textwidth}{6in}
+\setlength{\topmargin}{-0.4in}
+\setlength{\textheight}{8.5in}
+
+\newcommand{\heading}[6]{
+  \renewcommand{\thepage}{\arabic{page}} % used to be #1-\arabic{page}
+  \noindent
+  \begin{center}
+  \framebox{
+    \vbox{
+      \hbox to 5.78in { \textbf{#2} \hfill #3 }
+      \vspace{4mm}
+      \hbox to 5.78in { {\Large \hfill #6  \hfill} }
+      \vspace{2mm}
+      \hbox to 5.78in { \textit{Instructor: #4 \hfill #5} }
+    }
+  }
+  \end{center}
+  \vspace*{4mm}
+}
+
+%Redefining sections as problems
+\makeatletter
+\newenvironment{problem}{\@startsection
+       {section}
+       {2}
+       {-.2em}
+       {-3.5ex plus -1ex minus -.2ex}
+       {2.3ex plus .2ex}
+       {\pagebreak[3]%forces pagebreak when space is small; use \eject for better results
+       \large\bf\noindent{Problem }
+       }
+       }
+       %{%\vspace{1ex}\begin{center} \rule{0.3\linewidth}{.3pt}\end{center}}
+       %\begin{center}\large\bf \ldots\ldots\ldots\end{center}}
+\makeatother
+
+
+\newtheorem{theorem}{Theorem}[section]
+\newtheorem{definition}[theorem]{Definition}
+\newtheorem{remark}[theorem]{Remark}
+\newtheorem{lemma}[theorem]{Lemma}
+\newtheorem{corollary}[theorem]{Corollary}
+\newtheorem{proposition}[theorem]{Proposition}
+\newtheorem{claim}[theorem]{Claim}
+\newtheorem{observation}[theorem]{Observation}
+\newtheorem{fact}[theorem]{Fact}
+\newtheorem{assumption}[theorem]{Assumption}
+
+% don't modify this unless you know what you're doing
+\newcommand{\problemset}[3]{\heading{#1}{\classname: Machine Learning Theory}{#2}{Jake Abernethy}{#3}{Problem Set #1}}
+
+
+%%%%%%%% ENTER YOUR INFORMATION HERE %%%%%%%%
+\newcommand{\problemsetnum}{1}            % problem set number
+\newcommand{\duedate}{September 10, 2018} % problem set deadline
+\newcommand{\studentname}{STUDENT NAME}      % name of student (i.e., you)
+\newcommand{\classname}{CS 7545}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\pagestyle{fancy}
+%\addtolength{\headwidth}{\marginparsep} %these change header-rule width
+%\addtolength{\headwidth}{\marginparwidth}
+\lhead{\classname} %Problem \thesection}
+\chead{} 
+\rhead{\thepage} 
+\lfoot{\small\scshape \classname}
+\cfoot{} 
+\rfoot{\footnotesize PS \#\problemsetnum} 
+\renewcommand{\headrulewidth}{.3pt} 
+\renewcommand{\footrulewidth}{.3pt}
+\setlength\voffset{-0.25in}
+\setlength\textheight{648pt}
+
+
+\newcommand{\sit}{\shortintertext}
+\newcommand\deq{\mathrel{\overset{\makebox[0pt]{\mbox{\normalfont\tiny\sffamily def}}}{=}}}
+\newcommand{\ones}{\mathbbm{1}}
+\newcommand{\e}{\vec{e}}
+\newcommand{\tr}{\text{tr}}
+\newcommand{\bs}{\boldsymbol}
+\mathchardef\mhyphen="2D
+\newcommand{\C}{\mathbb{C}}
+\newcommand{\R}{\mathbb{R}}
+
+\newcommand{\vol}{\text{vol}}
+
+\renewcommand{\thesubsection}{\thesection.\alph{subsection}}
+
+
+% auto sized delimiters
+
+\newcommand{\br}[1]{\left[#1\right]}
+\newcommand{\pr}[1]{\left(#1\right)}
+\newcommand{\ceil}[1]{\left\lceil#1\right\rceil}
+\newcommand{\floor}[1]{\left\lfloor#1\right\rfloor}
+\newcommand{\abs}[1]{\left|#1\right|}
+
+%default delimiter for Pr and E
+\DeclarePairedDelimiter{\defaultDelim}{[}{]}
+
+\DeclareMathOperator{\capPr}{Pr}
+\renewcommand{\Pr}[2][]{\capPr_{#1}\defaultDelim*{#2}}
+\DeclareMathOperator{\capE}{E}
+\newcommand{\E}[2][]{\capE_{#1}\defaultDelim*{#2}}
+\DeclareMathOperator{\capVar}{Var}
+\newcommand{\Var}[2][]{\capVar_{#1}\defaultDelim*{#2}}
+
+%\DeclareMathOperator*{}{} puts subscript below
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}
+\problemset{\problemsetnum}{\duedate}{\studentname}
+
+\begin{problem}{}
+
+\end{problem}
+
+\begin{problem}{}
+\end{problem}
+
+\end{document}
