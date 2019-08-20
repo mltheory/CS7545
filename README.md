@@ -65,3 +65,5 @@ Much of the material in online learning (aka regret minimization) is of my own t
 
 [The Latex template for HW submissions is available here.](./hw/CS7545hw_template.tex)
 
+Previous offerings of the course: [Fall 2018](./Fall18)
+
