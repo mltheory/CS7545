@@ -38,7 +38,7 @@ Roughly half of the course will follow material from the following text:
 
  * "[Foundations of Machine Learning](https://www.amazon.com/Foundations-Machine-Learning-Adaptive-Computation/dp/026201825X)" by Mehryar Mohri, Afshin Rostamizadeh, and Ameet Talwalkar
 
-Much of the material in online learning (aka regret minimization) is of my own taste, and I will present these topics how I enjoy. But for students that want reading material on this topic, there are several surveys releaseSd in the last several years that explore several many that we shall cover. I will link to them here, and will mention them in various lectures when appropriate:
+Much of the material in online learning (aka regret minimization) is of my own taste, and I will present these topics how I enjoy. But for students that want reading material on this topic, there are several surveys released in the last several years that explore several many that we shall cover. I will link to them here, and will mention them in various lectures when appropriate:
 
 * [The Multiplicative Weights Update Method](http://www.cs.princeton.edu/~arora/pubs/MWsurvey.pdf) by Sanjeev Arora, Elad Hazan, and Satyen Kale.
 * [Online Learning and Online Convex Optimization survey](http://www.cs.huji.ac.il/~shais/papers/OLsurvey.pdf) by Shai Shalev-Shwartz.
