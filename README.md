@@ -50,7 +50,7 @@ Much of the material in online learning (aka regret minimization) is of my own t
 
 | Lecture | Date  | Topic |
 | :------------: |:-------------: |:-------------: |
-| 1  | 19 Aug 2019 | Introduction and norms |
+| [1](./scribe/lec1.pdf)   | 19 Aug 2019 | Introduction and and Linear Algebra Review |
 | [2](./scribe/lec2.pdf)  | 21 Aug 2019 | Convex Analysis |
 
 
