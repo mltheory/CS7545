@@ -13,7 +13,7 @@
         - **Office Hours**: Thursdays 3:00-4:00pm, alcove of Klaus 2116/2124
     - *Zihao Hu*
         - **Email:** zihaohu_at_gatech.edu
-        - **Office Hours**: TBA
+        - **Office Hours**: Mondays 3:00-4:00pm, alcove of Klaus 2116/2124
 
 
 ### Course Description
