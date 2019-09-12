@@ -3,9 +3,9 @@
 
 * **Course Info:**	CS7545, Fall 2019
 * **Instructor:**	Jacob Abernethy
-    - **Office:**  Klaus 2134
+    - **Office:**  Coda S1221
     - **Email:** prof_at_gatech_dot_edu
-    - **Office Hours:** TBA
+    - **Office Hours:** Wednesdays, 10-11am, in Coda S1221
 * **Course Time&Place:**	MW 4:30-5:45pm, Weber SST III (Lecture Hall 2)
 * **Teaching Assistants**:
     - *Bhuvesh Kumar*
