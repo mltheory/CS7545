@@ -62,6 +62,7 @@ Much of the material in online learning (aka regret minimization) is of my own t
 | Homework | Due Date  | 
 | :------------: |:-------------: |
 | [1](./hw/hw1.pdf) | Sep 8 2019, 11:59 pm |
+| [2](./hw/hw2.pdf) | Sep 30 2019, 2:00 pm |
 
 
 
