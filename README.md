@@ -54,6 +54,11 @@ Much of the material in online learning (aka regret minimization) is of my own t
 | [2](./scribe/lec2.pdf)  | 21 Aug 2019 | Convex Analysis |
 | [3](./scribe/lec3.pdf)  | 26 Aug 2019 | Convex Analysis and Deviation Bounds |
 | [4](./scribe/lec4.pdf)  | 28 Aug 2019 | Chernoff Bounds |
+| [5](./scribe/lec5.pdf)  | 04 Sep 2019 | Martingale and Online Learning Intro |
+| [6](./scribe/lec6.pdf)  | 09 Sep 2019 | Weighted Majority Algorithm |
+| 7  | 14 Sep 2019 | Exponential Weights Algorithm |
+| [8](./scribe/lec8.pdf)  | 16 Sep 2019 | Perceptron and Game Theory Intro |
+
 
 [The Latex template for scribes is available here.](./scribe/CS7545scribe_template.tex)
 
