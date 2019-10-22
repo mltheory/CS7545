@@ -60,7 +60,11 @@ Much of the material in online learning (aka regret minimization) is of my own t
 | [8](./scribe/lec8.pdf)  | 16 Sep 2019 | Perceptron and Game Theory Intro |
 | [9](./scribe/lec9.pdf)  | 18 Sep 2019 | Game Theory and Boosting |
 | [10](./scribe/lec10.pdf)  | 23 Sep 2019 | Boosting |
-
+| [11](./scribe/lec11.pdf)  | 25 Sep 2019 | Online Convex Optimization |
+| [12](./scribe/lec12.pdf)  | 30 Sep 2019 | Online Convex Optimization |
+| [13](./scribe/lec13.pdf)  | 2 Oct 2019 | SGD and Mirror Descent |
+| [14](./scribe/lec14.pdf)  | 7 Oct 2019 | Mirror Descent Continued |
+| [15](./scribe/lec15.pdf)  | 9 Oct 2019 | FTRL, Multi-Armed Bandits, & EXP3 |
 
 
 [The Latex template for scribes is available here.](./scribe/CS7545scribe_template.tex)
