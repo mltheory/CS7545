@@ -65,6 +65,7 @@ Much of the material in online learning (aka regret minimization) is of my own t
 | [13](./scribe/lec13.pdf)  | 2 Oct 2019 | SGD and Mirror Descent |
 | [14](./scribe/lec14.pdf)  | 7 Oct 2019 | Mirror Descent Continued |
 | [15](./scribe/lec15.pdf)  | 9 Oct 2019 | FTRL, Multi-Armed Bandits, & EXP3 |
+| [16](./scribe/lec16.pdf)  | 21 Oct 2019 | EXP3 and Stochastic Bandits |
 
 
 [The Latex template for scribes is available here.](./scribe/CS7545scribe_template.tex)
