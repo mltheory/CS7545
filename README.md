@@ -66,7 +66,6 @@ Much of the material in online learning (aka regret minimization) is of my own t
 | [14](./scribe/lec14.pdf)  | 7 Oct 2019 | Mirror Descent Continued |
 | [15](./scribe/lec15.pdf)  | 9 Oct 2019 | FTRL, Multi-Armed Bandits, & EXP3 |
 | [16](./scribe/lec16.pdf)  | 21 Oct 2019 | EXP3 and Stochastic Bandits |
-Bandits, & EXP3 |
 | [17](./scribe/lec17.pdf)  | 23 Oct 2019 | Stochastic Bandits & UCB |
 
 
@@ -81,7 +80,7 @@ Bandits, & EXP3 |
 | [2](./hw/hw2.pdf) | Sep 30 2019, 2:00 pm |
 | [3](./hw/hw3.pdf) | Oct 29 2019,11:59 pm |
 | [4](./hw/hw4.pdf) | Nov 14 2019,11:59 pm |
-
+| [5](./hw/hw5.pdf) | Dec 3 2019,11:59 pm |
 
 [The Latex template for HW submissions is available here.](./hw/CS7545hw_template.tex)
 
