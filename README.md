@@ -67,8 +67,9 @@ Much of the material in online learning (aka regret minimization) is of my own t
 | [15](./scribe/lec15.pdf)  | 9 Oct 2019 | FTRL, Multi-Armed Bandits, & EXP3 |
 | [16](./scribe/lec16.pdf)  | 21 Oct 2019 | EXP3 and Stochastic Bandits |
 | [17](./scribe/lec17.pdf)  | 23 Oct 2019 | Stochastic Bandits & UCB |
-
-
+| [18](./scribe/lec18.pdf)  | 28 Oct 2019 | UCB Algorithm|
+| [19](./scribe/lec19.pdf)  | 30 Oct 2019 | Stochastic Learning Theory|
+| [20](./scribe/lec21.pdf)  | 04 Nov 2019 | VC Dimension & Rademacher complexity|
 
 [The Latex template for scribes is available here.](./scribe/CS7545scribe_template.tex)
 
