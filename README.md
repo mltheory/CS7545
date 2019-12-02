@@ -74,7 +74,7 @@ Much of the material in online learning (aka regret minimization) is of my own t
 | [22](./scribe/lec22.pdf)  | 11 Nov 2019 | Massart's Lemma & Sauer's Lemma|
 | [23](./scribe/lec23.pdf)  | 13 Nov 2019 | Sauers's Lemma & VC Dim bounds|
 | [24](./scribe/lec24.pdf)  | 18 Nov 2019 | Generalization Bounds & Neural Network|
-| [25](./scribe/lec25.pdf)  | 20 Nov 2019 | Generalization Bounds & Neural Network|
+| [25](./scribe/lec25.pdf)  | 20 Nov 2019 | Reinforcement Learning|
 
 
 [The Latex template for scribes is available here.](./scribe/CS7545scribe_template.tex)
