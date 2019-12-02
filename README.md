@@ -69,7 +69,13 @@ Much of the material in online learning (aka regret minimization) is of my own t
 | [17](./scribe/lec17.pdf)  | 23 Oct 2019 | Stochastic Bandits & UCB |
 | [18](./scribe/lec18.pdf)  | 28 Oct 2019 | UCB Algorithm|
 | [19](./scribe/lec19.pdf)  | 30 Oct 2019 | Stochastic Learning Theory|
-| [20](./scribe/lec21.pdf)  | 04 Nov 2019 | VC Dimension & Rademacher complexity|
+| [20](./scribe/lec20.pdf)  | 04 Nov 2019 | VC Dimension & Rademacher complexity|
+| [21](./scribe/lec21.pdf)  | 06 Nov 2019 | Rademacher complexity & Massart's Lemma|
+| [22](./scribe/lec22.pdf)  | 11 Nov 2019 | Massart's Lemma & Sauer's Lemma|
+| [23](./scribe/lec23.pdf)  | 13 Nov 2019 | Sauers's Lemma & VC Dim bounds|
+| [24](./scribe/lec24.pdf)  | 18 Nov 2019 | Generalization Bounds & Neural Network|
+| [25](./scribe/lec25.pdf)  | 20 Nov 2019 | Generalization Bounds & Neural Network|
+
 
 [The Latex template for scribes is available here.](./scribe/CS7545scribe_template.tex)
 
