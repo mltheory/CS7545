@@ -1,5 +1,5 @@
-![](./robot_blackboard.png)
-
+<img src="robot_blackboard.png"
+     width="300" />
 
 ### Course Information
 
