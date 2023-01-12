@@ -1,3 +1,5 @@
+![](./robot_blackboard.png)
+
 
 ### Course Information
 
