@@ -56,3 +56,8 @@ Previous offerings of the course:
 - [Fall 2018](./Fall18)
 - [Fall 2019](./Fall19)
 
+### Homeworks
+
+| Homework | Due Date  | 
+| :------------: |:-------------: |
+| [1](./hw/CS7545_HW1.pdf) | January 31, 2023, 11:59 pm |
