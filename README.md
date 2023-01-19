@@ -13,13 +13,13 @@
         - **Office Hours:** TBD
     - *Zihao Hu*
         - **Email:** zihaohu_at_gatech_dot_edu
-        - **Office Hours**: TBD
+        - **Office Hours**: Monday 7pm-10pm (1/30, 3/27), Monday 7pm-8pm(1/23, 4/3)
     - *Yeojoon Youn*
         - **Email:** yjyoun92_at_gatech_dot_edu
-        - **Office Hours**: TBD
+        - **Office Hours**: Monday 7pm-10pm (2/20, 3/27), Monday 7pm-8pm(2/6, 2/13, 4/10)
     - *Guanghui Wang*
         - **Email:** gwang369_at_gatech_dot_edu
-        - **Office Hours:** TBD
+        - **Office Hours:** Monday 7pm-10pm (3/13, 3/27), Monday 7pm-8pm(2/27, 3/6, 4/24)
     - *Tyler Labonte*
         - **Email:** tlabonte_gatech_dot_edu
 
