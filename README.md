@@ -6,6 +6,7 @@
 * **Course Info:**	CS7545, Spring 2023
 * **Instructor:**	
 * **Course Time&Place:**	TuTh 3:30-4:45pm, Weber SST III (Lecture Hall 1)
+* **Office Hour:** We have office hour every Monday. Normally, we have one hour per week for the office hour. In the homework submission weeks, we have three hours per week for the office hour.  
 * **Course Staff**:
     - *Jacob Abernethy*
         - **Office:**  Coda S1221
