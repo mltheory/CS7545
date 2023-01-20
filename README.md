@@ -48,7 +48,7 @@ This course will study theoretical aspects of prediction and decision-making pro
 
 Every lecture will have two student scribes, and this pair of students will be asked to take detailed notes in class on what was covered. The quality of these notes will be graded! 
 
-**Grade Policy:**
+**Grade Rubric:**
 * 20% - *punctuality*
 * 40% - *correctness*
 * 40% - *readability*
