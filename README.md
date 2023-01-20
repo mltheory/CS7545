@@ -48,6 +48,11 @@ This course will study theoretical aspects of prediction and decision-making pro
 
 Every lecture will have two student scribes, and this pair of students will be asked to take detailed notes in class on what was covered. The quality of these notes will be graded! 
 
+**Grade Policy:**
+* 20% - *punctuality*
+* 40% - *correctness*
+* 40% - *readability*
+
 [Here is the course wiki](https://github.com/mltheory/CS7545/wiki).
 
 Note: all students are allowed and encouraged to contribute to this wiki! Once the scribes have submitted their notes, other students are welcome to add any additional comments, results, material, etc. to the lecture notes. It would be great if the wiki provides a broad set of resources for students, beyond what was covered in lecture.
