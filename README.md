@@ -11,6 +11,8 @@
         - Monday 7pm-8pm
     - *Date: 1/30, 2/20, 3/13, 3/27, 4/17*
         - Monday 7pm-10pm
+    - *This week's zoom link*
+        - [https://gatech.zoom.us/j/97392962480?pwd=R3pWNVd4a2hTVFFkOElkMTR5blpOdz09](https://gatech.zoom.us/j/97392962480?pwd=R3pWNVd4a2hTVFFkOElkMTR5blpOdz09)
 * **Course Staff**:
     - *Jacob Abernethy*
         - **Office:**  Coda S1221
