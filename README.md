@@ -65,6 +65,7 @@ Note: all students are allowed and encouraged to contribute to this wiki! Once t
 Roughly half of the course will follow material from the following text:
 
  * "[Foundations of Machine Learning](https://www.amazon.com/Foundations-Machine-Learning-Adaptive-Computation/dp/026201825X)" by Mehryar Mohri, Afshin Rostamizadeh, and Ameet Talwalkar
+ * "[Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)" by Shai Shalev-Shwartz and Shai Ben-David
 
 Much of the material in online learning is specific to this course. For students that want more in-depth reading material on this topic, however, there are several surveys released in the last several years that explore several many areas we shall cover. These include:
 
