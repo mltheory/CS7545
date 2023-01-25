@@ -8,9 +8,9 @@
 * **Course Time&Place:**	TuTh 3:30-4:45pm, Weber SST III (Lecture Hall 1)
 * **TA Office Hour:** We have office hour every Monday. Normally, we have one hour per week for the office hour (virtual office hour). In the homework submission weeks, we have three hours per week for the office hour (in-person office hour).  
     - *Date: 1/23, 2/6, 2/13, 2/27, 3/6, 4/3, 4/10, 4/24*
-        - Monday 7pm-8pm, virtual office hour
+        - Monday 7pm-8pm (virtual office hour)
     - *Date: 1/30, 2/20, 3/13, 3/27, 4/17*
-        - Monday 2pm-5pm, in-person office hour
+        - Monday 2pm-5pm (in-person office hour)
     - *This week's zoom link*
         - [https://gatech.zoom.us/j/97392962480?pwd=R3pWNVd4a2hTVFFkOElkMTR5blpOdz09](https://gatech.zoom.us/j/97392962480?pwd=R3pWNVd4a2hTVFFkOElkMTR5blpOdz09)
 * **Course Staff**:
