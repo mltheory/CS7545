@@ -12,7 +12,7 @@
     - *Date: 1/30, 2/27, 3/13, 3/27, 4/24*
         - Monday 2pm-5pm (in-person office hours), CODA 2nd floor
     - *This week's zoom link*
-        - [https://gatech.zoom.us/j/3216894294?pwd=YnJUd0lDVmI3YkNraDd1SnQrQlU5Zz09](https://gatech.zoom.us/j/3216894294?pwd=YnJUd0lDVmI3YkNraDd1SnQrQlU5Zz09)
+        - [https://gatech.zoom.us/j/97392962480?pwd=R3pWNVd4a2hTVFFkOElkMTR5blpOdz09](https://gatech.zoom.us/j/97392962480?pwd=R3pWNVd4a2hTVFFkOElkMTR5blpOdz09)
 * **Course Staff**:
     - *Jacob Abernethy*
         - **Office:**  Coda S1221
