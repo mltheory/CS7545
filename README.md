@@ -5,13 +5,6 @@
 
 * **Course Info:**	CS7545, Spring 2024
 * **Course Time&Place:**	TuTh 3:30-4:45pm, Weber SST III (Lecture Hall 1)
-<!-- * **TA Office Hours:** We have office hours every Monday. Normally, we have one hour per week for the office hours (virtual office hours). In the homework submission weeks, we have three hours per week for the office hours (in-person office hours).  
-    - *Date: 1/23, 2/6, 2/13, 2/20, 3/6, 4/3, 4/10, 4/17*
-        - Monday 7pm-8pm (virtual office hours)
-    - *Date: 1/30, 2/27, 3/13, 3/27, 4/24*
-        - Monday 2pm-5pm (in-person office hours), CODA 2nd floor
-    - *This week's zoom link*
-        - [https://gatech.zoom.us/j/97392962480?pwd=R3pWNVd4a2hTVFFkOElkMTR5blpOdz09](https://gatech.zoom.us/j/97392962480?pwd=R3pWNVd4a2hTVFFkOElkMTR5blpOdz09) -->
 * **Course Staff**:
     - *Jacob Abernethy*
         - **Office:**  Coda S1221
