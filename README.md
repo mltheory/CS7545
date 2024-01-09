@@ -25,12 +25,43 @@ This course will study theoretical aspects of prediction and decision-making pro
 
 **Prerequisites:** Familiarity with the analysis of algorithms, probabilistic analysis, and several similar topics. CS7641 (Machine Learning) may be helpful but not strictly necessary. The material will be about 90% "theory" and thus students must have a strong mathematical background. We shall rely heavily on techniques from calculus, probability, and convex analysis, but many tools will be reviewed in lecture.
 
-**Coursework:** Most lectures will have homework problems! They will be clearly stated in class, and written into the lecture notes. We will *strongly encourage* students to complete the week-by-week, so as to help follow along with the lecture material. But they will only be officially due *three days before the exam*, and we will release solutions a day later (two days before exame).
-
 **Grade Breakdown:**
-* 60% *Exams*
+* 60% *Exams* (in-class!)
 * 30% *Homeworks*
 * 10% *Scribing/participation*
+
+### Three Topic Segments, Three Exams
+
+The course instruction will be divided into three segments, with a particular area of focus, a different lecturer, and will end with an exam. The agenda will go as follows.
+
+- **Segment 1** 
+    - *Topic.* Basic tools for learning: linear algebra, convex analysis, probability, deviation bounds, martingales.
+    - *Instructor.* Prof. Jake Abernethy
+    - *Exam.* In class on Tuesday 1/30/2024
+- **Segment 2** 
+    - *Topic.* Statistical learning theory: generalization bounds, uniform convergence, VC theory, Rademacher complexity.
+    - *Instructor.* Tyler Labonte
+    - *Exam.* In class on Tuesday 2/27/2024
+- **Segment 3** 
+    - *Topic.* Online learning and optimization: sequential learning framework, regret minimization, online convex optimization, multi-armed bandits.
+    - *Instructor.* Guanghui Wang
+    - *Exam.* In class on Tuesday 4/2/2024
+
+Note: this will leave around lectures at the end of the course. We will use this as "extra-curriculur" time and we may have a set of guest lectures on special topics.
+
+### Homework 
+
+We're going to try something different this semester: one homework problem per lecture!
+
+During lectures, the presenting instructor will state one or more problems, with some of these clearly marked **HOMEWORK**. They will also be added to the lecture notes on the course wiki. The goal of these problems is to get students to engage with the material, and to make sure they understand the course material. Our homework policy is as follows:
+- We **encourage**, but do not require, students to complete the problems within the week they are given out. Doing small bits of work to keep up with the course material is the best way to learn the material gradually.
+- We **require** all of the homework problems for each segment of the course to be completed *four days before the exam*. We will release solutions at this time, and homework will not be accepted later than this date.
+- While exams will be graded in detail, homework will be **lightly graded** according to this rubric:
+    - 0 points for no submission
+    - 1 point for any attempt at the problem
+    - 2 points for a correct, or even mostly-correct, answer
+- We **strongly encourage** students to use LaTeX to typeset solutions. Handwritten solutions are acceptable but discouraged.
+- We will soon post details on Piazza for how to submit homework solutions.
 
 ### Lecture notes
 
@@ -52,7 +83,6 @@ The bulk of material from the course will follow material from the following tex
 
  * "[Foundations of Machine Learning](https://www.amazon.com/Foundations-Machine-Learning-Adaptive-Computation/dp/026201825X)" by Mehryar Mohri, Afshin Rostamizadeh, and Ameet Talwalkar
  * [The convex optimization approach to regret minimization survey](http://www.cs.princeton.edu/~ehazan/papers/OCO-survey.pdf) by Elad Hazan.
-
 
 Much of the material in online learning is specific to this course. For students that want more in-depth reading material on this topic, however, there are several surveys released in the last several years that explore several many areas we shall cover. These include:
 
