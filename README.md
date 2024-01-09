@@ -1,5 +1,5 @@
 <img src="robot_blackboard_2024.png"
-     width="300" />
+     width="500" />
 
 ### Course Information
 
