@@ -47,7 +47,7 @@ The course instruction will be divided into three segments, with a particular ar
     - *Instructor.* Guanghui Wang
     - *Exam.* In class on Tuesday 4/2/2024
 
-Note: this will leave around lectures at the end of the course. We will use this as "extra-curriculur" time and we may have a set of guest lectures on special topics.
+Note: this will leave around 5-6 lectures at the end of the course. We will use this as "extra-curriculur" time and we may have a set of guest lectures on special topics.
 
 ### Homework 
 
