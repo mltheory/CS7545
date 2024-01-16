@@ -9,7 +9,7 @@
     - *Jacob Abernethy*
         - **Office:**  Coda S1221
         - **Email:** prof_at_gatech_dot_edu
-        - **Office Hours:** TBD
+        - **Office Hours:** Friday 2pm-3pm(1/19, 1/26, 2/2)
     - *Tyler Labonte*
         - **Email:** tlabonte_gatech_dot_edu
     - *Guanghui Wang*
