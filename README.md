@@ -9,15 +9,16 @@
     - *Jacob Abernethy*
         - **Office:**  Coda S1221
         - **Email:** prof_at_gatech_dot_edu
-        - **Office Hours:** Friday 2pm-3pm(1/19, 1/26, 2/2)
+        - **Office Hours:** Friday 2pm-3pm(1/19, 1/26, 2/2), Friday 2pm-4pm(3/29)
     - *Tyler Labonte*
         - **Email:** tlabonte_gatech_dot_edu
+        - **Office Hours:** Friday 3pm-5pm(2/16, 2/23, 3/1)
     - *Guanghui Wang*
         - **Email:** gwang369_at_gatech_dot_edu
-        - **Office Hours:** Monday 7pm-8pm(3/6, 4/10, 4/24), Monday 2pm-5pm (3/13, 3/27)
+        - **Office Hours:** Friday 2pm-4pm(3/8, 3/15, 4/5)
     - *Yeojoon Youn*
         - **Email:** yjyoun92_at_gatech_dot_edu
-        - **Office Hours**: Monday 7pm-8pm(2/6, 2/13, 2/20), Monday 2pm-5pm (2/27, 3/27)
+        - **Office Hours**: Friday 3pm-4pm(1/19, 1/26), Friday 3pm-5pm(2/2, 2/9)
 
 ### Course Description
 
