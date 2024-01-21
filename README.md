@@ -38,15 +38,16 @@ The course instruction will be divided into three segments, with a particular ar
 - **Segment 1** 
     - *Topic.* Basic tools for learning: linear algebra, convex analysis, probability, deviation bounds, martingales.
     - *Instructor.* Prof. Jake Abernethy
-    - *Exam.* In class on Tuesday 1/30/2024
+    - *Exam.* In class on Tuesday ~~1/30/2024~~ 2/6/2024
 - **Segment 2** 
     - *Topic.* Statistical learning theory: generalization bounds, uniform convergence, VC theory, Rademacher complexity.
     - *Instructor.* Tyler Labonte
-    - *Exam.* In class on Tuesday 2/27/2024
+    - *Exam.* In class on Tuesday ~~2/27/2024~~ 3/5/2024
 - **Segment 3** 
     - *Topic.* Online learning and optimization: sequential learning framework, regret minimization, online convex optimization, multi-armed bandits.
     - *Instructor.* Guanghui Wang
-    - *Exam.* In class on Tuesday 4/2/2024
+    - *Exam.* In class on Tuesday ~~4/2/2024~~ 4/9/2024
+
 
 Note: this will leave around 5-6 lectures at the end of the course. We will use this as "extra-curriculur" time and we may have a set of guest lectures on special topics.
 
