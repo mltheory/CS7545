@@ -84,7 +84,7 @@ Note: all students are allowed and encouraged to contribute to this wiki! Once t
 The bulk of material from the course will follow material from the following texts:
 
  * "[Foundations of Machine Learning](https://www.amazon.com/Foundations-Machine-Learning-Adaptive-Computation/dp/026201825X)" by Mehryar Mohri, Afshin Rostamizadeh, and Ameet Talwalkar
- * [The convex optimization approach to regret minimization survey](http://www.cs.princeton.edu/~ehazan/papers/OCO-survey.pdf) by Elad Hazan.
+ * [The convex optimization approach to regret minimization survey](https://arxiv.org/abs/1909.05207) by Elad Hazan.
 
 Much of the material in online learning is specific to this course. For students that want more in-depth reading material on this topic, however, there are several surveys released in the last several years that explore several many areas we shall cover. These include:
 
