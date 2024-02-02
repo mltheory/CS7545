@@ -18,7 +18,7 @@
         - **Office Hours:** Friday 2pm-4pm(3/8, 3/15, 4/5)
     - *Yeojoon Youn*
         - **Email:** yjyoun92_at_gatech_dot_edu
-        - **Office Hours**: Friday 3pm-4pm(1/19, 1/26), Friday 3pm-5pm(2/2, 2/9)
+        - **Office Hours**: Friday 3pm-4pm(1/19, 1/26), Friday 9am-11am(2/2), Friday 3pm-5pm(2/9)
 
 ### Course Description
 
