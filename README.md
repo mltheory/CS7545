@@ -100,3 +100,9 @@ Previous offerings of the course:
 - [Fall 2019](./Fall19)
 - [Fall 2023](./Fall23)
 
+### Homeworks
+
+| Homework | Due Date  | Solution |
+| :------------: |:-------------: |:-------------: |
+| [Homework 1](./hw/CS7545_HW1.pdf) | January 31, 2023, 11:59 pm | [HW1 solution](./hw/CS7545_HW1_sol.pdf) |
+
