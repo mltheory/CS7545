@@ -104,5 +104,5 @@ Previous offerings of the course:
 
 | Homework | Due Date  | Solution |
 | :------------: |:-------------: |:-------------: |
-| [Homework 1](./hw/CS7545_HW1.pdf) | January 31, 2023, 11:59 pm | [HW1 solution](./hw/CS7545_HW1_sol.pdf) |
+| [Homework 1](./hw/CS7545_HW1.pdf) | February 2, 2024, 11:59 pm | [HW1 solution](./hw/CS7545_HW1_sol.pdf) |
 
