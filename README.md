@@ -106,4 +106,4 @@ Previous offerings of the course:
 | :------------: |:-------------: |:-------------: |
 | [Homework 1](./hw/CS7545_HW1.pdf) | February 2, 2024, 11:59 pm | [HW1 solution](./hw/CS7545_HW1_sol.pdf) |
 | [Homework 2](./hw/CS7545_HW2.pdf) | March 1, 2024, 11:59 pm | [HW2 solution](./hw/CS7545_HW2_sol.pdf) |
-| [Homework 3](./hw/HW3-problem.pdf) | April 5, 2024, 11:59 pm | [HW3 solution](./hw/HW3-olution.pdf) |
+| [Homework 3](./hw/HW3-Problem.pdf) | April 5, 2024, 11:59 pm | [HW3 solution](./hw/HW3-Solution.pdf) |
